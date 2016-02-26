@@ -1,7 +1,8 @@
 name: RosenRed
 favicon: null
-layout_spectrum: 0.9830223524477333
-typography_spectrum: 0.8354819647502154
+layout_spectrum: 1
+typography_spectrum: 0.85103
+title: RosenRed Art
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9953036645893008
-  lightness: 0.35520699992775917
-  saturation: 0.7391654830425978
-  rhythmicContrast: 0.6052800344768912
+    - '#590000'
+    - '#130000'
+    - '#c11117'
+    - '#323534'
+    - '#fc3538'
+  brandStrength: 0.6875
+  lightness: 0.8125
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
