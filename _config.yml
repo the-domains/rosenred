@@ -1,0 +1,29 @@
+name: RosenRed
+favicon: null
+layout_spectrum: 0.9830223524477333
+typography_spectrum: 0.8354819647502154
+title: RosenRed Art
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9953036645893008
+  lightness: 0.35520699992775917
+  saturation: 0.7391654830425978
+  rhythmicContrast: 0.6052800344768912
+purpose: []
