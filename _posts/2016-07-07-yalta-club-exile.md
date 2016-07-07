@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Akatre Studio
-    url: 'http://www.behance.net/akatre'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.behance.net'
-  name: Behance
-  favicon: 'https://a3.behance.net/img/site/favicon.ico?cb=250598751'
-  domain: www.behance.net
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.behance.net/gallery/38716813/Yalta-Club-Exile'
+inLanguage: en
 keywords:
   - akatre
   - yalta
@@ -21,22 +16,28 @@ keywords:
   - club
   - directed
 description: ''
-inLanguage: en
+datePublished: '2016-07-07T11:26:17.635Z'
+dateModified: '2016-07-07T11:26:17.267Z'
+author:
+  - name: Akatre Studio
+    url: 'http://www.behance.net/akatre'
+    avatar: {}
+related: []
 app_links:
   - url: 'behance://project/38716813'
     namespace: twitter
     type: iphone
     id: '489667151'
     name: Behance
-isBasedOnUrl: 'https://www.behance.net/gallery/38716813/Yalta-Club-Exile'
 title: ''
-datePublished: '2016-07-07T11:20:32.105Z'
-dateModified: '2016-07-07T11:16:40.977Z'
-starred: false
 sourcePath: _posts/2016-07-07-yalta-club-exile.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Behance
+  domain: www.behance.net
+  url: 'http://www.behance.net'
+  favicon: 'https://a3.behance.net/img/site/favicon.ico?cb=250598751'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
