@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-07T10:58:44.673Z'
-dateModified: '2016-07-07T10:58:27.581Z'
-title: RosenRed - digital inspiration sketchbook
+datePublished: '2016-07-07T11:00:53.794Z'
+dateModified: '2016-07-07T11:00:34.198Z'
+title: a sketchbook for design inspiration
 author: []
 sourcePath: _posts/2016-02-26-rosenred-will-re-launch-soon.md
 authors: []
@@ -19,6 +19,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03b6bbb1-ca6e-4ad6-9c3c-3db0e605b370.jpg)
 
-# [RosenRed ][0]- digital inspiration sketchbook
-
-[0]: null
+# a sketchbook for design inspiration
