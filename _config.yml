@@ -1,6 +1,6 @@
 name: RosenRed
 favicon: null
-layout_spectrum: 0.70878
+layout_spectrum: 0.76471
 typography_spectrum: 0.85103
 title: digital design sketchbook
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c11117'
     - '#323534'
     - '#fc3538'
-  brandStrength: 0.1875
+  brandStrength: 0.0625
   lightness: 0.8125
   saturation: 0.625
   rhythmicContrast: 0.5
